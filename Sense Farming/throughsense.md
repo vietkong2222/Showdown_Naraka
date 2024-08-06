@@ -6,3 +6,6 @@
 
   ![Figure 1: Status](status_sense.jpg)
 
+  - Cấp thần thức tối đa mùa giải Biến ảo là 780
+
+
