@@ -9,7 +9,7 @@
 
 - [x] **1. Farm thần thức**
   - [x] **1.1 [Sơ lược về thần thức](https://github.com/vietkong2222/Showdown_Naraka/blob/main/Sense%20Farming/throughsense.md)**
-  - [x] **1.2 [Cách nâng thần thức](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week1/BOT)**
+  - [x] **1.2 [Cách nâng thần thức](https://github.com/vietkong2222/Showdown_Naraka/blob/main/Sense%20Farming/senseupgrade.md)**
     
 
 - [x] **2. Bộ ngọc khởi đầu**
