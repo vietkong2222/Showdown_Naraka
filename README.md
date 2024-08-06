@@ -8,7 +8,7 @@
 ## Hướng dẫn chơi diệt thần cho người mới bắt đầu:
 
 - [x] **1. Farm thần thức**
-  - [x] **1.1 [Sơ lược về thần thức](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week1/Computational%20Thinking/Computer_Thinking_Recap.md)**
+  - [x] **1.1 [Sơ lược về thần thức](https://github.com/vietkong2222/Showdown_Naraka/blob/main/Sense%20Farming/throughsense.md)**
   - [x] **1.2 [Cách nâng thần thức](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week1/BOT)**
     
 
