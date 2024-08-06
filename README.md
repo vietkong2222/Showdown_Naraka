@@ -25,7 +25,7 @@
   - [x] **Top 1 [Dập lửa](https://github.com/vietkong2222/Showdown_Naraka/blob/main/Top%20Jades%20Set/daplua.md)**
   - [x] **Top 2 [Ning hóa khí](https://github.com/vietkong2222/Showdown_Naraka/blob/main/Top%20Jades%20Set/ninghoakhi.md)**
   - [x] **Top 3 [Lửa điện](https://github.com/vietkong2222/Showdown_Naraka/blob/main/Top%20Jades%20Set/luadien.md)**
-  - [x] **Top 4 [Chấn chớp](hhttps://github.com/vietkong2222/Showdown_Naraka/blob/main/Top%20Jades%20Set/chanchop.md)**
+  - [x] **Top 4 [Chấn chớp](https://github.com/vietkong2222/Showdown_Naraka/blob/main/Top%20Jades%20Set/chanchop.md)**
   - [x] **Top 5 [Pháo băng](https://github.com/vietkong2222/Showdown_Naraka/blob/main/Top%20Jades%20Set/phaobang.md)**
   - [x] **[Một ít tâm đắc](https://github.com/vietkong2222/Showdown_Naraka/blob/main/Top%20Jades%20Set/tamdac.md)**
 
