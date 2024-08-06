@@ -34,5 +34,5 @@
  - MỘT ĐIỀU QUAN TRỌNG NỮA LÀ HÃY **NGHE MỌI NGƯỜI CALL** NẾU BẠN LÀ **NGƯỜI ĐƯỢC KÉO**. ĐỪNG **ĐÁNH THEO CẢM TỈNH** VÌ ĐIỀU ĐÓ SẼ LÀM CẢN TRỞ NGƯỜI KÉO RẤT NHIỀU DẪN ĐẾN TRẢI NGHIỆM GAME KHÔNG TỐT. 
   
 - [x] **6. Farm linh quyết**
- [x] **6.1 [Farm solo trios ở tầng 1](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week3/H_index)**
- [x] **6.2 [Farm ở lạc cảnh cửu u 25](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week3/H_index)**
+ - [x] **6.1 [Farm solo trios ở tầng 1](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week3/H_index)**
+ - [x] **6.2 [Farm ở lạc cảnh cửu u 25](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week3/H_index)**
