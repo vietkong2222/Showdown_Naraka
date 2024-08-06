@@ -29,10 +29,12 @@
   - [x] **Top 5 [Pháo băng](https://github.com/vietkong2222/Showdown_Naraka/blob/main/Top%20Jades%20Set/phaobang.md)**
   - [x] **[Một ít tâm đắc](https://github.com/vietkong2222/Showdown_Naraka/blob/main/Top%20Jades%20Set/tamdac.md)**
 
-- [x] **5. Làm sao để pro ?**
+- [x] **5. Farm linh quyết**
+  - [x] **6.1 [Farm solo trios ở tầng 1](https://github.com/vietkong2222/Showdown_Naraka/blob/main/Arima%20Ring%20Farming/solotrios.md)**
+  - [x] **6.2 [Farm ở lạc cảnh cửu u 25](https://github.com/vietkong2222/Showdown_Naraka/blob/main/Arima%20Ring%20Farming/9u25.md)**
+
+- [x] **6. Làm sao để pro ?**
  - Việc học Mech boss và chơi nhiều để quen đòn sẽ khiến bạn mau pro hơn, khuyến khích nên đi solo tầng 1-25 để làm quen với các trùm trong tháp, không cần quá vội vàng dùng sen, hãy chơi lại nhiều lần để tay mau to lên. Và nếu cuối mùa mà farm không nổi thì cứ nhắn lên nhóm mọi người sẽ hỗ trợ bạn lên tầng 40 để có đủ quà.
  - MỘT ĐIỀU QUAN TRỌNG NỮA LÀ HÃY **NGHE MỌI NGƯỜI CALL** NẾU BẠN LÀ **NGƯỜI ĐƯỢC KÉO**. ĐỪNG **ĐÁNH THEO CẢM TỈNH** VÌ ĐIỀU ĐÓ SẼ LÀM CẢN TRỞ NGƯỜI KÉO RẤT NHIỀU DẪN ĐẾN TRẢI NGHIỆM GAME KHÔNG TỐT. 
   
-- [x] **6. Farm linh quyết**
-  - [x] **6.1 [Farm solo trios ở tầng 1](https://github.com/vietkong2222/Showdown_Naraka/blob/main/Arima%20Ring%20Farming/solotrios.md)**
-  - [x] **6.2 [Farm ở lạc cảnh cửu u 25](https://github.com/vietkong2222/Showdown_Naraka/blob/main/Arima%20Ring%20Farming/9u25.md)**
+- [x] **7. Đang cập nhật - nếu mọi người có câu hỏi mình sẽ cập nhật thêm ở đây**
