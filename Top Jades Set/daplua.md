@@ -25,8 +25,8 @@
 
   ![thaythe](image-2.png)
   
-  - **Các dòng chỉ số cần đập :**
-  - Option hiếm ( Hợp đạo,trị lửa)
+  - **Option của ngọc :**
+  - Option hiếm ( Hợp đạo, Trị lửa)
   - Sinh Lực ( Tăng damge từ Tiềm Năng Lửa Bùng Thân).
   - Tấn Công 
   - Khôi Phục Tứ Tượng ( Khoảng 2 đến 3 viên full là được, còn muốn dùng full hồi phục thì damge bé)

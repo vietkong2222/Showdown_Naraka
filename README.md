@@ -38,3 +38,5 @@
  - MỘT ĐIỀU QUAN TRỌNG NỮA LÀ HÃY **NGHE MỌI NGƯỜI CALL** NẾU BẠN LÀ **NGƯỜI ĐƯỢC KÉO**. ĐỪNG **ĐÁNH THEO CẢM TỈNH** VÌ ĐIỀU ĐÓ SẼ LÀM CẢN TRỞ NGƯỜI KÉO RẤT NHIỀU DẪN ĐẾN TRẢI NGHIỆM GAME KHÔNG TỐT. 
   
 - [x] **7. Đang cập nhật - nếu mọi người có câu hỏi mình sẽ cập nhật thêm ở đây**
+
+## CẢM ƠN LẨU THẬP CẨM ĐÃ ĐÓNG GÓP MỘT VÀI GIÁO ÁN
