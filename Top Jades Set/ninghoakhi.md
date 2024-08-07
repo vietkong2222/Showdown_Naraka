@@ -15,13 +15,13 @@
 
   ![tiemnanghoakhi](image-4.png)
 
-  - *Tiềm năng hóa khí Ning chủ yếu vào nhánh băng nứt nước trào và hỏa mộc ngút ngàn còn lại có thể tùy chỉnh để phù hợp với mình
+  - Tiềm năng hóa khí Ning chủ yếu vào nhánh băng nứt nước trào và hỏa mộc ngút ngàn còn lại có thể tùy chỉnh để phù hợp với mình
   - **Điểm mạnh :**
   - Lối chơi cực dễ, spam F đến chết
   - Dame đầu ra to, dọn quái mạnh, đánh boss ngon 
 
   - **Điểm yếu :**
-  - Yêu cầu tài nguyên dồn vào cực nhiều (100% hóa khi + 30% sát thương phá băng mỗi viên) để cảm nhận độ sướng của bảng ngọc
+  - Yêu cầu tài nguyên dồn vào cực nhiều (100% hóa khí + 30% sát thương phá băng mỗi viên) để cảm nhận độ sướng của bảng ngọc
   - Ngoài Ning ra thì ít có tướng nào phát huy hết sức mạnh của bảng này được
 
   - **Option của ngọc :**

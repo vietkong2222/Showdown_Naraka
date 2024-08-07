@@ -17,11 +17,11 @@
  ![ngocluadien](image-5.png)
 
  - **Tiềm năng :**
- - option 1
+ - **Option 1**
 
  ![tiemnang](image-6.png)
 
- - option 2
+ - **Option 2**
 
  ![tiemnang1](image-7.png)
 

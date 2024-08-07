@@ -15,8 +15,8 @@
   ![tiemnangdaplua](image-1.png)
   
   - **Điểm yếu :**
-  - Lấy lửa thiêu thân
-  - tùy vào tướng mà độ khó của bộ ngọc sẽ giảm
+  - Dẫn lửa thiêu thân
+  - Tùy vào tướng mà độ khó của bộ ngọc sẽ giảm
 
   - **Các tướng khuyến khích :**
   - Thẩm Diệu, Thiên Hải, Quý Thương Hải, (Vô Trần, Matari - yêu cầu trình độ cao)
