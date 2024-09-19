@@ -13,7 +13,7 @@
 
   - **Tiềm năng băng :**
 
-  ![tiemnanghoakhi](image-4.png)
+  ![tiemnanghoakhibang](image-25.png)
 
   - Tiềm năng hóa khí Ning chủ yếu vào nhánh băng nứt nước trào và hỏa mộc ngút ngàn còn lại có thể tùy chỉnh để phù hợp với mình
   - **Điểm mạnh :**
