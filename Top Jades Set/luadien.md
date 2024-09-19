@@ -17,13 +17,9 @@
  ![ngocluadien](image-5.png)
 
  - **Tiềm năng :**
- - **Option 1**
 
- ![tiemnang](image-6.png)
 
- - **Option 2**
-
- ![tiemnang1](image-7.png)
+ ![tiemnang](image-16.png)
 
  - **Điểm yếu :**
  - Cần tứ tượng để duy trì sát thương cao 
@@ -35,9 +31,10 @@
  - **Các tướng khuyến khích :**
  - Thẩm diệu, Vô trần 
 
- - **Option của ngọc :**
-  - Hợp đạo 
-  - Sinh lực
+ - **Option của ngọc theo độ ưu tiên:**
+  - [Hợp đạo] 
   - ATK
+  - Sinh lực
   - ATK lên Boss
+  - [Trị lửa]
   - Khôi phục tứ tượng (nếu thiếu hồi phục- tay bé ..., nói chung không cần thiết lắm) 

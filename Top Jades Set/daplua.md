@@ -2,7 +2,7 @@
 
 ---
 ## Đây là bộ ngọc hot nhất mùa này dame thẳng vào máu boss mà không cần phá cương khí
-  - **Độ khó chơi** : 5 sao
+  - **Độ khó chơi** : 4 sao
   - **Sức mạnh**: Dame lửa đầu ra cao nhất ở mùa biến ảo
   - Kết hợp với du long để dập lửa kết thúc toàn bộ sát thương thiêu đốt
   - Cần trình độ tứ tượng và dash cực chuẩn để tận dụng hết được bộ ngọc
@@ -12,7 +12,7 @@
   ![daplua](image.png)
   - **Tiềm Năng :**
 
-  ![tiemnangdaplua](image-1.png)
+  ![alt text](image-17.png)
   
   - **Điểm yếu :**
   - Dẫn lửa thiêu thân
@@ -25,9 +25,9 @@
 
   ![thaythe](image-2.png)
   
-  - **Option của ngọc :**
+  - **Option của ngọc theo độ ưu tiên :**
   - Option hiếm ( Hợp đạo, Trị lửa)
   - Sinh Lực ( Tăng damge từ Tiềm Năng Lửa Bùng Thân).
   - Tấn Công 
-  - Khôi Phục Tứ Tượng ( Khoảng 2 đến 3 viên full là được, còn muốn dùng full hồi phục thì damge bé)
   - Sát thương lên Boss 
+  - Khôi Phục Tứ Tượng ( Khoảng 2 đến 3 viên full là được, còn muốn dùng full hồi phục thì damge bé)

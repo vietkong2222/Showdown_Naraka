@@ -6,7 +6,7 @@
   - **Thông tin bộ ngọc :**
   ![bo ngoc](image.png)
   - **Tiềm năng:**
-  ![tiem nang](image-1.png)
+  ![tiemnang](image-1.png)
   - Cách thức vận hành: Dùng ngọc Chớp Lôi Thuật để tích lũy nguyên tố thiên lôi, khi tích đầy nguyên tố sẽ có thiên lôi đánh xuống, Khi đó Chấn thiên lôi có thể đỡ thiên lôi và bắn ra sát thương thiên lôi cực cao!
   - **Ưu nhược điểm:** 
     - **Ưu Điểm:** Dễ chơi, dễ làm quen cho lewd bie, lượng sát thương ổn định không bị ảnh hưởng nhiều bởi meta! Phù hợp với tất cả các tướng! các Slot ngọc bổ trợ cho nhau tốt!

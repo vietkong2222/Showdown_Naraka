@@ -15,3 +15,6 @@
   ![bian](image-4.png)
 
 - Danh sách các linh quyết bí ẩn
+
+  ![bian1](image-2.png)
+  ![bian2](image-5.png)

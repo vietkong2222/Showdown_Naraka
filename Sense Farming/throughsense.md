@@ -4,8 +4,8 @@
   - Thần thức sẽ tăng các chỉ số cơ bản và sẽ khiến bạn không bị trạng thái áp chế thần thức 
   -  Áp chế thần thức: quái đánh bạn đau hơn, bạn đánh quái dame ít hơn
 
-  ![Figure 1: Status](status_sense.jpg)
+  ![status_scene](image.png)
 
-  - Cấp thần thức tối đa mùa giải Biến ảo là 780
+  - Cấp thần thức tối đa mùa giải Sơn lâm là 1030 và đang cập nhật thêm
 
 
