@@ -3,13 +3,12 @@
 ---
 
 
-## Đây là bảng ngọc yêu cầu ít và chỉ dùng để đi cửu u
+## Đây là bảng ngọc của các top Server hiện tại
 
- - **KHÔNG KHUYẾN KHÍCH MANG RA NGOÀI ĐỂ CHƠI VỚI MỌI NGƯỜI NẾU KHÔNG MUỐN BỊ KÌ THỊ VÀ OUT KHI THẤY TÊN CỦA BẠN**
- - **Độ khó :** 1 sao
+ - **Độ khó :** 5 sao
  - **Sức mạnh :** 
- - Dọn quái trong cửu u nhanh 
- - Kết hợp với các linh quyết nguyên tố (trừ chuyển hóa nguyên tố) để có dame đầu ra tốt
+ - Lựa chọn cực tốt cho cả boss và quái, phù hợp với mọi tướng
+ - Dame đầu cực to do buff trị lửa ở mùa này, hiện tại là bộ ngọc có dame đầu ra to nhất mùa giải
  
  - **Ngọc :**
 
@@ -19,18 +18,24 @@
 
  ![tiemnangphaobang](image-10.png)
  
- - **Điểm yếu :** 
- - Chỉ mạnh khi đủ linh quyết (Cần *Ngưng tụ nguyên tố* +3 và ngoan võ )
- - Không nên lấy pháo liên châu nếu chưa có sửa nhanh hay ngoan võ 
+ - **Điểm yếu và cách vận hành :** 
+ - Độ khó cực cao, yêu cầu người chơi phải **tối ưu được 2 lần dame trị lửa trong một đợt chấn chớp**
+ - Cụ thể sau khi chấn đợt lôi đầu hãy dash ngay để kích du long và trả 1 đòn *mini*, sau đó chấn tiếp và lặp lại
+ - Vũ khí nhẹ (kiếm, dao găm, quạt, song đao ...) mini = đòn trắng dọc hay ngang đều được
+ - Vũ khí trung (côn, thương) mini = đòn trắng dọc
+ - vũ khí nặng (đao, trảm đao) mini = đòn trắng ngang
+ - Và một điểm yếu nữa là tài nguyên dồn vào bộ ngọc này rất tốn
 
  - **Lựa chọn thay thế :** Có thể thay *Pháo liên châu* bằng *Thiêu rụi, Bạo băng quyết*
 
  ![ngocphaobangoption1](image-11.png)
 
- - **Option của ngọc :**
-  - Hợp đạo 
-  - ST phá băng
+ - **Option của ngọc theo độ ưu tiên:**
+  - [Trị lửa]
+  - [Hợp đạo]  
+  - Sinh lực
   - ATK
   - ATK lên Boss
+  - Khôi phục tứ tượng / đỡ đòn
   
 ## ĐÂY CHỈ LÀ BẢNG NGỌC ĐỂ FARM CỬU U NÊN KHÔNG CẦN DỒN TÀI NGUYÊN VÀO - NÓ RẤT PHÍ
