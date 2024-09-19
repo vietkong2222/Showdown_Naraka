@@ -32,7 +32,7 @@
   - [x] **[Một ít tâm đắc](https://github.com/vietkong2222/Showdown_Naraka/blob/main/Top%20Jades%20Set/tamdac.md)**
 
 - [x] **5. Farm mệt mỏi**
-  - [x] **6.1 [Farm bí cảnh](https://github.com/vietkong2222/Showdown_Naraka/blob/main/Arima%20Ring%20Farming/solotrios.md)**
+  - [x] **6.1 [Farm bí cảnh](https://github.com/vietkong2222/Showdown_Naraka/blob/main/Arima%20Ring%20Farming/bicanh.md)**
   - [x] **6.2 [Farm ở linh hư giới](https://github.com/vietkong2222/Showdown_Naraka/blob/main/Arima%20Ring%20Farming/linhhugioi.md)**
 
 - [x] **6. Làm sao để pro ?**
