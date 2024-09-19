@@ -33,7 +33,7 @@
 
 - [x] **5. Farm mệt mỏi**
   - [x] **6.1 [Farm bí cảnh](https://github.com/vietkong2222/Showdown_Naraka/blob/main/Arima%20Ring%20Farming/solotrios.md)**
-  - [x] **6.2 [Farm ở linh hư giới](https://github.com/vietkong2222/Showdown_Naraka/blob/main/Arima%20Ring%20Farming/9u25.md)**
+  - [x] **6.2 [Farm ở linh hư giới](https://github.com/vietkong2222/Showdown_Naraka/blob/main/Arima%20Ring%20Farming/linhhugioi.md)**
 
 - [x] **6. Làm sao để pro ?**
  - Việc học Mech boss và chơi nhiều để quen đòn sẽ khiến bạn mau pro hơn, khuyến khích nên spam solo các map ác mộng để làm quen với các chiêu của boss.
